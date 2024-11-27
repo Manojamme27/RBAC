@@ -5,6 +5,9 @@
 
 This project is a React-based Admin Dashboard designed to efficiently manage users, roles, and permissions. The dashboard provides a secure and user-friendly interface for administrators to perform key actions such as assigning roles, defining permissions, and managing user data.
 
+![WhatsApp Image 2024-11-27 at 22 43 26](https://github.com/user-attachments/assets/9077a6c4-8a27-4229-9d97-6bf06c9d86ae)
+![WhatsApp Image 2024-11-27 at 22 41 43](https://github.com/user-attachments/assets/3b8a3550-16b3-4b28-b043-6d18b9945be9)
+![WhatsApp Image 2024-11-27 at 22 43 12](https://github.com/user-attachments/assets/47468e0f-3af2-4bf3-a054-8fadfbfc3fc4)
 
 
 # Features
