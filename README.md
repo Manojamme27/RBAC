@@ -45,7 +45,7 @@ Assign Roles to users dynamically and monitor their account status.
 
 ### Clone the repository:
 
-**git clone https://github.com/your-username/admin-dashboard.git
+**git clone https://github.com/Manojamme27/RBAC.git
 cd admin-dashboard**
 
 # Install dependencies:
